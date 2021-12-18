@@ -1,0 +1,90 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+div#navigation-bar h2 {
+	color: white;
+	font-size: 60px;
+}
+
+div#navigation-bar {
+	background-color: rgb(29, 90, 204);
+	padding: 10px;
+	text-align: center;
+}
+
+div#navigation-bar ul {
+  display: block;
+}
+
+div#navigation-bar li {
+	display: inline;
+  font-weight: bold;
+  color: black;
+  margin: 10px;
+}
+
+div#navigation-bar a {
+	color: rgb(128, 0, 0);
+	text-decoration: none;
+}
+
+div#navigation-bar a:hover {
+	color: lightslategray;
+}
+
+
+div#home {
+	padding: 150px;
+	background-color:  silver;
+}
+
+div#home h2 {
+	color: #fff;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 50px;
+}
+
+
+div#company-info {
+	padding: 150px;
+	background-color:  rgb(51, 172, 82);
+}
+
+div#company-info h2 {
+	color: #fff;
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 50px;
+}
+
+div#message-banner {
+	background-color: firebrick;
+	padding: 1rem;
+	text-align: center;
+}
+
+div#message-banner a {
+	text-decoration: none;
+}
+
+div#message-banner a:hover {
+	color: black;
+}
+
+div#about {
+	padding: 150px;
+	background-color: navy;
+}
+
+div#about h2 {
+	text-align: center;
+	color: #fff;
+}
+
+div#about h3 {
+	text-align: center;
+	color: black;
+}
